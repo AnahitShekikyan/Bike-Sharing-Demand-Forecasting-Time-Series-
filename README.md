@@ -48,7 +48,7 @@ Python
 ---
 
 ## Repository Structure 
-.
+
 ├── ADS-506 Final Project Initial EDA.Rmd
 
 ├── ADS-506-Final-Project-Initial-EDA.html
