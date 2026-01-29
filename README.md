@@ -54,15 +54,25 @@ Python
 ├── ADS-506-Final-Project-Initial-EDA.html
 
 ├── ADS-506-Final-Project-Initial-EDA.pdf
+
 ├── ADS_506_Final_Project_Updated.ipynb
+
 ├── Update_506_Final_Team_Project.ipynb
+
 ├── LSTM_day_data.ipynb
+
 ├── LSTM_hour_data.ipynb
+
 ├── bike_rentals_lstm_model.h5
+
 ├── day.csv
+
 ├── hour.csv
+
 ├── requirements.txt
+
 ├── Bike Sharing Demand Forecasting Using Time Series Models.pdf
+
 └── README.md
 
 ---
